@@ -45,7 +45,6 @@ bfs(visited, graph, '5')  # Function calling
 ### Output:
 
 
-![exp 1 ss](https://github.com/user-attachments/assets/0e000899-97fc-4f23-b3e5-21ea64a241d8)
 ![Screenshot 2025-03-07 151611](https://github.com/user-attachments/assets/1ae2ad07-4737-4aff-8f20-ba945a966195)
 
 
