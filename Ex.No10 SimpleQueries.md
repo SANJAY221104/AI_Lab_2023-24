@@ -41,9 +41,16 @@ Consider the following facts and represent them in predicate form: <br>
 Convert the facts in predicate form to clauses and then prove by resolution: “Steve likes BK301 course”<br> 
 
 ### Program:
-
+```
+have_fun_dept_course(bk301).
+easy(X) :- have_fun_dept_course(X).
+likes(steve, X) :- easy(X).
+hard(X) :- science_course(X).
+```
 
 ### Output:
+![Screenshot 2025-03-21 160137](https://github.com/user-attachments/assets/b0e255a4-d611-489b-8747-698a52e62585)
+
 
 ### Task 3:
 Consider the statement <br> 
