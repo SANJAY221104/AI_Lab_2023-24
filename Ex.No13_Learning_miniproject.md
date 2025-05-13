@@ -1,4 +1,4 @@
-# Ex.No: 12  Stock Market predection
+# Ex.No: 13  Stock Market predection
 ### DATE:  13/05/25                                                                   
 ### REGISTER NUMBER : 212222060217
 ### AIM: 
